@@ -1,21 +1,21 @@
 # UT-DataBC-Project-2
 
 1 Page Proposal 
-Sheet: https://docs.google.com/document/d/11xb9zISBw0fiRCB4fgo7ZTM5yaxRgwao95cqdIfIDMY/edit?usp=sharing 
-    A brief articulation of your chosen topic and rationale
-To display the significant disparity between the price a producer is paid and the price a retail coffee is sold for.
-     A link to your dataset(s) and a screenshot of the metadata if it exists.	
-See Data and images folders
-what will a user see when they come to my app?
-A series of views displaying the significant disparity between the price a producer is paid and the price a retail coffee is sold for.
-how does data go from source to user?
-The data will be stored on a PostGRESQL database set up in AWS via Heroku. Our heroku HTML page will display embedded Tableau 
-How did I get the data?
-ICO statistician and a web scrapped coffee quality source http://www.ico.org/new_historical.asp Data source 2 - https://github.com/jldbc/coffee-quality-database
-How do I store it?
-AWS PostgreSQL 
-How does the data flow from data store to client[0]?
-AWS PostgreSQL ->Tableau Embed->Javascript->HTML
+Sheet: https://docs.google.com/document/d/11xb9zISBw0fiRCB4fgo7ZTM5yaxRgwao95cqdIfIDMY/edit?usp=sharing <br />
+A brief articulation of your chosen topic and rationale<br />
+To display the significant disparity between the price a producer is paid and the price a retail coffee is sold for.<br />
+     A link to your dataset(s) and a screenshot of the metadata if it exists.	<br />
+See Data and images folders<br />
+what will a user see when they come to my app?<br />
+A series of views displaying the significant disparity between the price a producer is paid and the price a retail coffee is sold for.<br />
+how does data go from source to user?<br />
+The data will be stored on a PostGRESQL database set up in AWS via Heroku. Our heroku HTML page will display embedded Tableau <br />
+How did I get the data?<br />
+ICO statistician and a web scrapped coffee quality source http://www.ico.org/new_historical.asp Data source 2 - https://github.com/jldbc/coffee-quality-database<br />
+How do I store it?<br />
+AWS PostgreSQL <br />
+How does the data flow from data store to client[0]?<br />
+AWS PostgreSQL ->Tableau Embed->Javascript->HTML<br />
 
 Questions:
 To display the significant disparity between the price a producer is paid and the price a retail coffee is sold for.
