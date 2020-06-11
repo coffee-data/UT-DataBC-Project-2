@@ -1,47 +1,70 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.min.js"></script>
+    <title>Pet Form</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+
     <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
 
-    <title>Document</title>
-
-</head>
-
-<body onload="initViz();">
-<div class="container">
-    <div class="row">
-        <div id="vizContainer" class="col align-self-center" style="width:800px; height:700px;"></div>
-    </div>
-</div>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="../static/css/style.css">
 
 
-    <script>
-        // "https://public.tableau.com/views/TestDashboard_15907188388160/Dashboard1"
-        function initViz() {
-            var placeholderDiv = document.getElementById("vizContainer");
-            var url = "https://public.tableau.com/views/TestDashboard_15907188388160/Dashboard1";
-            var options = {
-                width: placeholderDiv.offsetWidth,
-                height: placeholderDiv.offsetHeight,
-                hideTabs: true,
-                hideToolbar: true,
-                onFirstInteractive: function () {
-                workbook = viz.getWorkbook();
-                activeSheet = workbook.getActiveSheet();
-                }
-            };
-            viz = new tableau.Viz(placeholderDiv, url, options);
+    <body onload="initViz();">
+
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+              <div class="navbar-header">
+                <a class="navbar-brand" href="#">Datte Viz</a>
+              </div>
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Viz 1</a></li>
+                <li><a href="#">Viz 2</a></li>
+                <li><a href="#">Viz 3</a></li>
+              </ul>
+            </div>
+          </nav>
+
+          <div class="jumbotron">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-auto" id="vizContainer"></div>
+                    <div class="col">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut voluptate maxime rerum, assumenda corporis nobis! Corrupti molestias obcaecati eius laboriosam placeat alias unde aut eligendi, deleniti nemo quis harum.
+                    </div>
+                </div>
+            </div>  
+          </div>
+
+          <script>
+            function initViz() {
+                var containerDiv = document.getElementById("vizContainer"),
+                    url = "https://public.tableau.com/views/TestDashboard_15907188388160/Dashboard1"
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function() {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+                // Create a viz object and embed it in the container div.
+                var viz = new tableau.Viz(containerDiv, url, options);
             }
-    </script>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-</body>
+        </script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+    </body>
 
 </html>
