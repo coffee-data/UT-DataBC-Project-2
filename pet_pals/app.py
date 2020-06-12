@@ -7,8 +7,17 @@ def home():
     return render_template("index.html")
 
 @app.route("/viz-1")
-def embed():
+def viz1():
     return render_template("viz-1.html")
+
+@app.route("/viz-2")
+def viz1():
+    return render_template("viz-2.html")
+
+@app.route("/viz-3")
+def viz1():
+    return render_template("viz-3.html")
+
 
 if __name__ == "__main__":
     app.run(debug=True)
