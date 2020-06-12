@@ -3,6 +3,7 @@
   }
 
 .jumbotron {
+  background-image: url('datte_proj_2_bg.png');
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
