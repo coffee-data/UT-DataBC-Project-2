@@ -2,10 +2,28 @@
     margin-bottom:0;
   }
 
-  .vertical-center {
-    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-    min-height: 100vh; /* These two lines are counted as one :-)       */
-  
-    display: flex;
-    align-items: center;
-  }
+.jumbotron {
+  background-image: url("/Images/datte_proj_2_bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.jumbotron h1{
+  color: white;
+}
+
+.jumbotron h2{
+  color: white;
+}
+
+.jumbotron p{
+  color: white;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
