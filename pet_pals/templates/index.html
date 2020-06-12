@@ -28,38 +28,26 @@
                 <a class="navbar-brand" href="#">Datte Viz: Project 2</a>
               </div>
               <ul class="nav navbar-nav">
-                <li><a href="/">Home</a></li>
-                <li><a href="viz-1">Viz 1</a></li>
-                <li><a href="viz-2">Viz 2</a></li>
-                <li><a href="viz-3">Viz 3</a></li>
+                <li class="active"><a href="/">Home</a></li>
+                <li><a href="viz-1">Quality</a></li>
+                <li><a href="viz-2">Retail</a></li>
+                <li><a href="viz-3">Variety</a></li>
               </ul>
             </div>
           </nav>
 
-          <div class="jumbotron">
+          <div class="jumbotron vertical-center">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-md-auto" id="vizContainer"></div>
+                    <div class="col-md-auto"></div>
                     <div class="col">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aut voluptate maxime rerum, assumenda corporis nobis! Corrupti molestias obcaecati eius laboriosam placeat alias unde aut eligendi, deleniti nemo quis harum.
+                        <h1 class="text-center">Datte Viz Presents</h1>
+                        <h2 class="text-center">A View of Global Coffee Prices</h2>
                     </div>
                 </div>
             </div>  
           </div>
 
-          <script>
-            function initViz() {
-                var containerDiv = document.getElementById("vizContainer"),
-                    url = "https://public.tableau.com/views/TestDashboard_15907188388160/Dashboard1"
-                options = {
-                    hideTabs: true,
-                    onFirstInteractive: function() {
-                        console.log("Run this code when the viz has finished loading.");
-                    }
-                };
-                // Create a viz object and embed it in the container div.
-                var viz = new tableau.Viz(containerDiv, url, options);
-            }
         </script>
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
