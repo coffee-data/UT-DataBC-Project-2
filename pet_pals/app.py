@@ -6,9 +6,9 @@ app = Flask(__name__)
 def home():
     return render_template("index.html")
 
-@app.route("/embed")
+@app.route("/form")
 def embed():
-    return render_template("embed.html")
+    return render_template("form.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
