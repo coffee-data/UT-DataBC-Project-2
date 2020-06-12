@@ -3,7 +3,6 @@
   }
 
 .jumbotron {
-  background-image: url({{ url_for('static', filename='datte_proj_2_bg.png') }});
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
