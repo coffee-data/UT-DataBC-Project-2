@@ -1,0 +1,1112 @@
+Country,Region,Year,Average of unit_price(/kg),Scale,Conversions_Numeric,converted_price(/kg)
+Angola,Africa,2012,800.00,Units,95.46795542,8.38
+Angola,Africa,2013,800.00,Units,96.51827948,8.29
+Angola,Africa,2014,800.00,Units,98.30241686,8.14
+Angola,Africa,2015,800.00,Units,120.0607017,6.66
+Angola,Africa,2016,800.00,Units,163.6564341,4.89
+Angola,Africa,2017,4272.00,Units,165.9159507,25.75
+Angola,Africa,2018,4272.00,Units,252.8557477,16.90
+Austria,Europe,1964,85.00,Units,26.00000003,3.27
+Austria,Europe,1965,81.18,Units,26.00000003,3.12
+Austria,Europe,1966,84.00,Units,26.00000003,3.23
+Austria,Europe,1967,84.00,Units,26.00000003,3.23
+Austria,Europe,1968,81.48,Units,26.00000003,3.13
+Austria,Europe,1969,81.00,Units,26.00000003,3.12
+Austria,Europe,1970,85.75,Units,26.00000003,3.30
+Austria,Europe,1971,84.00,Units,24.9855839,3.36
+Austria,Europe,1972,89.90,Units,23.11533333,3.89
+Austria,Europe,1973,90.25,Units,19.58,4.61
+Austria,Europe,1974,70.83,Units,18.6925,3.79
+Austria,Europe,1975,84.92,Units,17.41675,4.88
+Austria,Europe,1976,97.79,Units,17.93966667,5.45
+Austria,Europe,1977,140.90,Units,16.52691667,8.53
+Austria,Europe,1978,129.51,Units,14.52166667,8.92
+Austria,Europe,1979,110.72,Units,13.3675,8.28
+Austria,Europe,1980,110.15,Units,12.938,8.51
+Austria,Europe,1981,121.67,Units,15.92683333,7.64
+Austria,Europe,1982,125.50,Units,17.05925,7.36
+Austria,Europe,1983,123.80,Units,17.96333333,6.89
+Austria,Europe,1984,128.58,Units,20.00908333,6.43
+Austria,Europe,1985,138.67,Units,20.6895,6.70
+Austria,Europe,1986,148.27,Units,15.26713333,9.71
+Austria,Europe,1987,138.93,Units,12.6425,10.99
+Austria,Europe,1988,124.93,Units,12.34766667,10.12
+Austria,Europe,1989,124.80,Units,13.23066667,9.43
+Austria,Europe,1990,122.43,Units,11.36983333,10.77
+Austria,Europe,1991,117.30,Units,11.67591667,10.05
+Austria,Europe,1992,120.60,Units,10.98933333,10.97
+Austria,Europe,1993,127.47,Units,11.6321825,10.96
+Austria,Europe,1994,114.86,Units,11.42182492,10.06
+Austria,Europe,1995,114.92,Units,10.08149583,11.40
+Austria,Europe,1996,126.40,Units,10.5865575,11.94
+Austria,Europe,1997,117.73,Units,12.20424417,9.65
+Austria,Europe,1998,108.13,Units,12.379065,8.74
+Austria,Europe,1999,93.13,Units,,
+Austria,Europe,2000,100.12,Units,,
+Austria,Europe,2001,99.34,Units,,
+Austria,Europe,2002,6.68,Units,,
+Austria,Europe,2003,6.21,Units,,
+Austria,Europe,2004,5.91,Units,,
+Austria,Europe,2005,6.68,Units,,
+Austria,Europe,2006,7.26,Units,,
+Austria,Europe,2007,6.87,Units,,
+Austria,Europe,2008,7.11,Units,,
+Austria,Europe,2009,11.01,Units,,
+Austria,Europe,2010,11.11,Units,,
+Austria,Europe,2011,13.19,Units,,
+Austria,Europe,2012,14.38,Units,,
+Austria,Europe,2013,14.32,Units,,
+Austria,Europe,2014,14.32,Units,,
+Austria,Europe,2015,14.78,Units,,
+Austria,Europe,2016,11.23,Units,,
+Austria,Europe,2017,12.14,Units,,
+Austria,Europe,2018,12.38,Units,,
+Belgium,Europe,1973,150.12,Units,38.9765,3.85
+Belgium,Europe,1974,164.78,Units,38.9515,4.23
+Belgium,Europe,1975,167.99,Units,36.77891667,4.57
+Belgium,Europe,1976,215.13,Units,38.60516667,5.57
+Belgium,Europe,1977,346.43,Units,35.84275,9.67
+Belgium,Europe,1978,296.83,Units,31.49208333,9.43
+Belgium,Europe,1979,255.54,Units,29.31866667,8.72
+Belgium,Europe,1980,261.50,Units,29.24166667,8.94
+Belgium,Europe,1981,242.03,Units,37.12925,6.52
+Belgium,Europe,1982,286.65,Units,45.69058333,6.27
+Belgium,Europe,1983,311.97,Units,51.13166667,6.10
+Belgium,Europe,1984,360.35,Units,57.78391667,6.24
+Belgium,Europe,1985,382.43,Units,59.378,6.44
+Belgium,Europe,1986,431.03,Units,44.67191667,9.65
+Belgium,Europe,1987,295.75,Units,37.33408333,7.92
+Belgium,Europe,1988,273.42,Units,36.76833333,7.44
+Belgium,Europe,1989,282.56,Units,39.404,7.17
+Belgium,Europe,1990,240.48,Units,33.41791667,7.20
+Belgium,Europe,1991,219.29,Units,34.14825,6.42
+Belgium,Europe,1992,215.86,Units,32.1495,6.71
+Belgium,Europe,1993,211.92,Units,34.59652083,6.13
+Belgium,Europe,1994,250.92,Units,33.4564975,7.50
+Belgium,Europe,1995,316.58,Units,29.48001667,10.74
+Belgium,Europe,1996,275.25,Units,30.96151333,8.89
+Belgium,Europe,1997,314.92,Units,35.77389083,8.80
+Belgium,Europe,1998,335.25,Units,36.29864083,9.24
+Belgium,Europe,1999,296.25,Units,,
+Belgium,Europe,2000,309.92,Units,,
+Belgium,Europe,2001,297.58,Units,,
+Belgium,Europe,2002,7.13,Units,,
+Belgium,Europe,2003,7.01,Units,,
+Belgium,Europe,2004,6.87,Units,,
+Belgium,Europe,2005,7.26,Units,,
+Belgium,Europe,2006,7.57,Units,,
+Belgium,Europe,2007,7.90,Units,,
+Belgium,Europe,2008,8.18,Units,,
+Belgium,Europe,2009,8.33,Units,,
+Belgium,Europe,2010,8.61,Units,,
+Belgium,Europe,2011,10.27,Units,,
+Belgium,Europe,2012,10.62,Units,,
+Belgium,Europe,2013,10.37,Units,,
+Brazil,South America,1995,4.82,Units,0.917666667,5.25
+Brazil,South America,1996,4.31,Units,1.0051,4.29
+Brazil,South America,1997,4.68,Units,1.077991667,4.34
+Brazil,South America,1998,4.69,Units,1.160516667,4.04
+Brazil,South America,1999,4.79,Units,1.813932847,2.64
+Brazil,South America,2000,5.18,Units,1.829423122,2.83
+Brazil,South America,2001,3.91,Units,2.349631709,1.67
+Brazil,South America,2002,3.41,Units,2.920363018,1.17
+Brazil,South America,2003,4.63,Units,3.077475118,1.51
+Brazil,South America,2004,5.84,Units,2.92511945,2.00
+Brazil,South America,2005,6.45,Units,2.434390036,2.65
+Brazil,South America,2006,6.63,Units,2.175326667,3.05
+Brazil,South America,2007,7.67,Units,1.947058333,3.94
+Brazil,South America,2008,8.05,Units,1.833766667,4.39
+Brazil,South America,2009,8.31,Units,1.999428173,4.15
+Brazil,South America,2010,8.20,Units,1.759226711,4.66
+Brazil,South America,2011,9.18,Units,1.672828755,5.49
+Brazil,South America,2012,11.14,Units,1.953068611,5.70
+Brazil,South America,2013,10.94,Units,2.156089151,5.07
+Brazil,South America,2014,10.98,Units,2.352951963,4.67
+Brazil,South America,2015,11.57,Units,3.326904383,3.48
+Brazil,South America,2016,13.75,Units,3.491313422,3.94
+Brazil,South America,2017,16.32,Units,3.191389446,5.11
+Brazil,South America,2018,15.28,Units,3.653825361,4.18
+Bulgaria,Europe,2002,9.81,Units,2.076975,4.73
+Bulgaria,Europe,2003,102.05,Units,1.732701667,58.90
+Bulgaria,Europe,2004,101.73,Units,1.575108917,64.59
+Bulgaria,Europe,2005,10.12,Units,1.574133333,6.43
+Bulgaria,Europe,2006,9.98,Units,1.559266667,6.40
+Bulgaria,Europe,2007,10.92,Units,1.42905,7.64
+Bulgaria,Europe,2008,11.89,Units,1.337116667,8.89
+Bulgaria,Europe,2009,11.88,Units,1.406691667,8.44
+Bulgaria,Europe,2010,11.78,Units,1.477391667,7.98
+Bulgaria,Europe,2011,1.29,Units,1.406458333,0.92
+Bulgaria,Europe,2012,11.55,Units,1.52205,7.59
+Bulgaria,Europe,2013,11.65,Units,1.473566667,7.91
+Bulgaria,Europe,2014,12.18,Units,1.474183333,8.26
+Bulgaria,Europe,2015,13.42,Units,1.7644,7.61
+Bulgaria,Europe,2016,14.76,Units,1.768041667,8.35
+Bulgaria,Europe,2017,17.70,Units,1.735458333,10.20
+Bulgaria,Europe,2018,16.72,Units,1.657041667,10.09
+Cameroon,Africa,2013,6340.00,Units,493.8996239,12.84
+Cameroon,Africa,2018,5250.00,Units,555.4464584,9.45
+Colombia,South America,2002,8146.00,Units,2504.241331,3.25
+Colombia,South America,2003,8368.00,Units,2877.652458,2.91
+Colombia,South America,2004,8501.00,Units,2628.612903,3.23
+Colombia,South America,2005,10990.00,Units,2320.834177,4.74
+Colombia,South America,2006,12062.67,Units,2361.139408,5.11
+Colombia,South America,2007,13140.00,Units,2078.291837,6.32
+Colombia,South America,2008,13751.00,Units,1967.711309,6.99
+Colombia,South America,2009,15566.00,Units,2158.255903,7.21
+Colombia,South America,2010,17165.00,Units,1898.569636,9.04
+Colombia,South America,2011,18125.00,Units,1848.13947,9.81
+Cyprus,Europe,1963,0.65,Units,0.357142999,1.82
+Cyprus,Europe,1964,0.68,Units,0.357142999,1.92
+Cyprus,Europe,1965,0.70,Units,0.357142999,1.95
+Cyprus,Europe,1966,0.70,Units,0.357142999,1.96
+Cyprus,Europe,1967,0.70,Units,0.362103333,1.93
+Cyprus,Europe,1968,0.74,Units,0.416666999,1.78
+Cyprus,Europe,1969,0.74,Units,0.416666999,1.78
+Cyprus,Europe,1970,0.83,Units,0.416666999,2.00
+Cyprus,Europe,1971,0.90,Units,0.410730598,2.18
+Cyprus,Europe,1972,0.88,Units,0.383572369,2.29
+Cyprus,Europe,1973,0.88,Units,0.349950503,2.51
+Cyprus,Europe,1974,1.11,Units,0.364692711,3.05
+Cyprus,Europe,1975,1.18,Units,0.368907243,3.20
+Cyprus,Europe,1976,1.48,Units,0.410495692,3.61
+Cyprus,Europe,1977,2.67,Units,0.408121577,6.53
+Cyprus,Europe,1978,2.59,Units,0.373512583,6.93
+Cyprus,Europe,1979,2.60,Units,0.354443864,7.34
+Cyprus,Europe,1980,2.28,Units,0.353051687,6.44
+Cyprus,Europe,1981,1.96,Units,0.421430759,4.66
+Cyprus,Europe,1982,2.20,Units,0.475385896,4.63
+Cyprus,Europe,1983,2.49,Units,0.526640771,4.72
+Cyprus,Europe,1984,2.85,Units,0.58838586,4.84
+Cyprus,Europe,1985,3.28,Units,0.612552316,5.35
+Cyprus,Europe,1986,3.72,Units,0.518143083,7.18
+Cyprus,Europe,1987,3.52,Units,0.481096583,7.31
+Cyprus,Europe,1988,3.15,Units,0.466628833,6.75
+Cyprus,Europe,1989,3.10,Units,0.494624917,6.27
+Cyprus,Europe,1990,2.85,Units,0.458079917,6.22
+Cyprus,Europe,1991,2.85,Units,0.4644285,6.14
+Cyprus,Europe,1992,2.85,Units,0.449548583,6.34
+Cyprus,Europe,1993,2.85,Units,0.497405167,5.73
+Cyprus,Europe,1994,3.43,Units,0.492191,6.96
+Cyprus,Europe,1995,4.25,Units,0.452420167,9.39
+Cyprus,Europe,1996,4.25,Units,0.46631125,9.11
+Cyprus,Europe,1997,4.58,Units,0.513897333,8.90
+Cyprus,Europe,1998,5.25,Units,0.517825583,10.14
+Cyprus,Europe,1999,5.25,Units,0.54294775,9.67
+Cyprus,Europe,2000,4.90,Units,0.622409117,7.87
+Cyprus,Europe,2001,5.08,Units,0.643107026,7.89
+Cyprus,Europe,2002,5.43,Units,0.61065999,8.88
+Cyprus,Europe,2003,5.60,Units,0.517443262,10.82
+Cyprus,Europe,2004,5.40,Units,0.468600552,11.52
+Cyprus,Europe,2005,5.40,Units,0.464070507,11.64
+Cyprus,Europe,2006,5.40,Units,0.458915947,11.77
+Cyprus,Europe,2007,5.40,Units,0.426125,12.67
+Cyprus,Europe,2008,8.50,Units,,
+Cyprus,Europe,2009,8.75,Units,,
+Cyprus,Europe,2010,8.66,Units,,
+Cyprus,Europe,2011,9.60,Units,,
+Cyprus,Europe,2012,10.90,Units,,
+Cyprus,Europe,2013,10.73,Units,,
+Cyprus,Europe,2014,10.75,Units,,
+Cyprus,Europe,2015,10.54,Units,,
+Cyprus,Europe,2016,10.55,Units,,
+Cyprus,Europe,2017,10.73,Units,,
+Cyprus,Europe,2018,10.81,Units,,
+Czech Rep.,Europe,1997,299.40,Units,31.69841667,9.45
+Czech Rep.,Europe,1998,361.60,Units,32.28116667,11.20
+Czech Rep.,Europe,1999,307.30,Units,34.56925,8.89
+Czech Rep.,Europe,2000,294.40,Units,38.59841667,7.63
+Czech Rep.,Europe,2001,243.78,Units,38.03532833,6.41
+Czech Rep.,Europe,2002,215.44,Units,32.73851833,6.58
+Czech Rep.,Europe,2003,192.79,Units,28.209,6.83
+Czech Rep.,Europe,2004,195.73,Units,25.69975,7.62
+Czech Rep.,Europe,2005,200.08,Units,23.95741667,8.35
+Czech Rep.,Europe,2006,196.82,Units,22.59558333,8.71
+Czech Rep.,Europe,2007,195.48,Units,20.29366667,9.63
+Czech Rep.,Europe,2008,215.21,Units,17.07166667,12.61
+Czech Rep.,Europe,2009,215.80,Units,19.063,11.32
+Czech Rep.,Europe,2010,210.58,Units,19.09825,11.03
+Czech Rep.,Europe,2011,256.84,Units,17.69591667,14.51
+Czech Rep.,Europe,2012,307.43,Units,19.5775,15.70
+Czech Rep.,Europe,2013,301.68,Units,19.57058333,15.42
+Czech Rep.,Europe,2014,302.32,Units,20.7575,14.56
+Czech Rep.,Europe,2015,311.86,Units,24.59875,12.68
+Czech Rep.,Europe,2016,330.45,Units,24.43991667,13.52
+Czech Rep.,Europe,2017,337.35,Units,23.37633333,14.43
+Czech Rep.,Europe,2018,347.38,Units,21.72991667,15.99
+Denmark,Europe,1964,21.91,Units,6.907140006,3.17
+Denmark,Europe,1965,21.95,Units,6.907140006,3.18
+Denmark,Europe,1966,21.91,Units,6.907140006,3.17
+Denmark,Europe,1967,21.63,Units,6.956541672,3.11
+Denmark,Europe,1968,22.48,Units,7.500000007,3.00
+Denmark,Europe,1969,22.92,Units,7.500000007,3.06
+Denmark,Europe,1970,26.55,Units,7.500000007,3.54
+Denmark,Europe,1971,27.34,Units,7.426337969,3.68
+Denmark,Europe,1972,26.88,Units,6.949291666,3.87
+Denmark,Europe,1973,28.65,Units,6.049499999,4.74
+Denmark,Europe,1974,31.25,Units,6.094899999,5.13
+Denmark,Europe,1975,29.53,Units,5.746149999,5.14
+Denmark,Europe,1976,39.25,Units,6.045024999,6.49
+Denmark,Europe,1977,65.08,Units,6.003191666,10.84
+Denmark,Europe,1978,63.55,Units,5.514624999,11.52
+Denmark,Europe,1979,57.53,Units,5.260958332,10.93
+Denmark,Europe,1980,60.97,Units,5.635941666,10.82
+Denmark,Europe,1981,57.61,Units,7.123366666,8.09
+Denmark,Europe,1982,64.47,Units,8.332441666,7.74
+Denmark,Europe,1983,65.44,Units,9.144991666,7.16
+Denmark,Europe,1984,72.79,Units,10.35659167,7.03
+Denmark,Europe,1985,76.84,Units,10.59639167,7.25
+Denmark,Europe,1986,86.54,Units,8.090991667,10.70
+Denmark,Europe,1987,63.49,Units,6.840316667,9.28
+Denmark,Europe,1988,59.78,Units,6.731525,8.88
+Denmark,Europe,1989,61.19,Units,7.310175,8.37
+Denmark,Europe,1990,51.87,Units,6.188558333,8.38
+Denmark,Europe,1991,51.59,Units,6.396458333,8.07
+Denmark,Europe,1992,50.31,Units,6.036133333,8.33
+Denmark,Europe,1993,49.73,Units,6.483939167,7.67
+Denmark,Europe,1994,61.86,Units,6.360551667,9.73
+Denmark,Europe,1995,68.72,Units,5.602366667,12.27
+Denmark,Europe,1996,61.52,Units,5.798671667,10.61
+Denmark,Europe,1997,72.35,Units,6.604459167,10.95
+Denmark,Europe,1998,72.80,Units,6.700826667,10.86
+Denmark,Europe,1999,60.38,Units,6.97624,8.65
+Denmark,Europe,2000,61.25,Units,8.083144167,7.58
+Denmark,Europe,2001,58.44,Units,8.3228175,7.02
+Denmark,Europe,2002,53.69,Units,7.894714167,6.80
+Denmark,Europe,2003,51.78,Units,6.587673333,7.86
+Denmark,Europe,2004,52.21,Units,5.991056667,8.71
+Denmark,Europe,2005,56.56,Units,5.99691,9.43
+Denmark,Europe,2006,57.99,Units,5.946778333,9.75
+Denmark,Europe,2007,57.73,Units,5.443700833,10.61
+Denmark,Europe,2008,60.44,Units,5.098130833,11.85
+Denmark,Europe,2009,62.32,Units,5.360866667,11.63
+Denmark,Europe,2010,67.30,Units,5.624075,11.97
+Denmark,Europe,2011,81.81,Units,5.368711535,15.24
+Denmark,Europe,2012,85.83,Units,5.792475537,14.82
+Denmark,Europe,2013,78.76,Units,5.616311686,14.02
+Denmark,Europe,2014,79.51,Units,5.612466667,14.17
+Denmark,Europe,2015,86.69,Units,6.727906831,12.88
+Denmark,Europe,2016,73.16,Units,6.731718257,10.87
+Denmark,Europe,2017,73.01,Units,6.602893466,11.06
+Denmark,Europe,2018,73.69,Units,6.314618787,11.67
+Finland,Europe,1982,23.89,Units,4.820416666,4.96
+Finland,Europe,1983,25.66,Units,5.570083333,4.61
+Finland,Europe,1984,29.15,Units,6.01,4.85
+Finland,Europe,1985,35.85,Units,6.197895833,5.78
+Finland,Europe,1986,41.54,Units,5.06952,8.19
+Finland,Europe,1987,34.49,Units,4.395565,7.85
+Finland,Europe,1988,28.65,Units,4.182833333,6.85
+Finland,Europe,1989,28.87,Units,4.291215833,6.73
+Finland,Europe,1990,25.35,Units,3.823505,6.63
+Finland,Europe,1991,24.22,Units,4.043979167,5.99
+Finland,Europe,1992,23.93,Units,4.47944,5.34
+Finland,Europe,1993,24.30,Units,5.712291667,4.25
+Finland,Europe,1994,31.48,Units,5.2235125,6.03
+Finland,Europe,1995,38.79,Units,4.366666667,8.88
+Finland,Europe,1996,32.63,Units,4.59355,7.10
+Finland,Europe,1997,40.27,Units,5.191435,7.76
+Finland,Europe,1998,40.34,Units,5.344065833,7.55
+Finland,Europe,1999,31.94,Units,,
+Finland,Europe,2000,32.51,Units,,
+Finland,Europe,2001,28.97,Units,,
+Finland,Europe,2002,4.30,Units,,
+Finland,Europe,2003,4.16,Units,,
+Finland,Europe,2004,4.15,Units,,
+Finland,Europe,2005,5.03,Units,,
+Finland,Europe,2006,5.16,Units,,
+Finland,Europe,2007,5.23,Units,,
+Finland,Europe,2008,5.58,Units,,
+Finland,Europe,2009,5.56,Units,,
+Finland,Europe,2010,6.12,Units,,
+Finland,Europe,2011,8.49,Units,,
+Finland,Europe,2012,8.22,Units,,
+Finland,Europe,2013,7.12,Units,,
+Finland,Europe,2014,7.17,Units,,
+Finland,Europe,2015,7.74,Units,,
+Finland,Europe,2016,7.32,Units,,
+Finland,Europe,2017,8.00,Units,,
+Finland,Europe,2018,7.91,Units,,
+France,Europe,1964,10.03,Units,4.937060004,2.03
+France,Europe,1965,9.91,Units,4.937060004,2.01
+France,Europe,1966,10.16,Units,4.937060004,2.06
+France,Europe,1967,10.06,Units,4.937060004,2.04
+France,Europe,1968,10.05,Units,4.937060004,2.03
+France,Europe,1969,10.37,Units,5.194197504,2.00
+France,Europe,1970,14.62,Units,5.554190005,2.63
+France,Europe,1971,14.61,Units,5.540601355,2.64
+France,Europe,1972,14.63,Units,5.044544516,2.90
+France,Europe,1973,15.23,Units,4.452779674,3.42
+France,Europe,1974,17.49,Units,4.809618473,3.64
+France,Europe,1975,17.36,Units,4.287799515,4.05
+France,Europe,1976,25.89,Units,4.802878363,5.39
+France,Europe,1977,47.44,Units,4.905173323,9.67
+France,Europe,1978,38.68,Units,4.513099999,8.57
+France,Europe,1979,36.12,Units,4.254416666,8.49
+France,Europe,1980,38.64,Units,4.225574999,9.14
+France,Europe,1981,36.23,Units,5.434608333,6.67
+France,Europe,1982,40.52,Units,6.572099999,6.17
+France,Europe,1983,48.22,Units,7.621291666,6.33
+France,Europe,1984,57.47,Units,8.7391,6.58
+France,Europe,1985,62.07,Units,8.985225,6.91
+France,Europe,1986,65.65,Units,6.926091667,9.48
+France,Europe,1987,56.00,Units,6.010708333,9.32
+France,Europe,1988,49.18,Units,5.956941667,8.26
+France,Europe,1989,49.48,Units,6.380141667,7.76
+France,Europe,1990,44.73,Units,5.445275,8.22
+France,Europe,1991,41.68,Units,5.642116667,7.39
+France,Europe,1992,26.94,Units,5.293815833,5.09
+France,Europe,1993,25.23,Units,5.66323,4.46
+France,Europe,1994,29.12,Units,5.552045,5.25
+France,Europe,1995,40.58,Units,4.9914825,8.13
+France,Europe,1996,37.15,Units,5.1155225,7.26
+France,Europe,1997,35.46,Units,5.836691667,6.08
+France,Europe,1998,36.06,Units,5.899515667,6.11
+France,Europe,1999,34.55,Units,,
+France,Europe,2000,33.56,Units,,
+France,Europe,2001,32.19,Units,,
+France,Europe,2002,4.84,Units,,
+France,Europe,2003,4.87,Units,,
+France,Europe,2004,4.83,Units,,
+France,Europe,2005,4.87,Units,,
+France,Europe,2006,5.21,Units,,
+France,Europe,2007,5.49,Units,,
+France,Europe,2008,5.78,Units,,
+France,Europe,2009,5.99,Units,,
+France,Europe,2010,6.01,Units,,
+France,Europe,2011,6.55,Units,,
+France,Europe,2012,6.73,Units,,
+France,Europe,2013,6.51,Units,,
+France,Europe,2014,6.26,Units,,
+France,Europe,2015,6.19,Units,,
+France,Europe,2016,6.50,Units,,
+France,Europe,2017,6.63,Units,,
+France,Europe,2018,6.87,Units,,
+Germany,Europe,1974,16.30,Units,2.587749999,6.30
+Germany,Europe,1975,15.90,Units,2.460291666,6.46
+Germany,Europe,1976,18.70,Units,2.517999999,7.43
+Germany,Europe,1977,24.50,Units,2.322183332,10.55
+Germany,Europe,1978,21.08,Units,2.008624999,10.50
+Germany,Europe,1979,18.56,Units,1.832883333,10.13
+Germany,Europe,1980,19.47,Units,1.817666666,10.71
+Germany,Europe,1981,18.41,Units,2.259999999,8.15
+Germany,Europe,1982,19.31,Units,2.426591666,7.96
+Germany,Europe,1983,19.06,Units,2.553258332,7.46
+Germany,Europe,1984,20.18,Units,2.845941666,7.09
+Germany,Europe,1985,21.39,Units,2.943966667,7.26
+Germany,Europe,1986,22.62,Units,2.171483333,10.42
+Germany,Europe,1987,17.35,Units,1.797391667,9.65
+Germany,Europe,1988,16.08,Units,1.756225,9.15
+Germany,Europe,1989,16.15,Units,1.880041667,8.59
+Germany,Europe,1990,14.24,Units,1.615733333,8.81
+Germany,Europe,1991,14.01,Units,1.659541667,8.44
+Germany,Europe,1992,13.77,Units,1.56165,8.81
+Germany,Europe,1993,13.21,Units,1.653320833,7.99
+Germany,Europe,1994,14.91,Units,1.622794167,9.19
+Germany,Europe,1995,15.90,Units,1.4331325,11.09
+Germany,Europe,1996,13.84,Units,1.504774167,9.20
+Germany,Europe,1997,15.44,Units,1.734055833,8.90
+Germany,Europe,1998,15.66,Units,1.7596676,8.90
+Germany,Europe,1999,13.82,Units,,
+Germany,Europe,2000,13.22,Units,,
+Germany,Europe,2001,12.68,Units,,
+Germany,Europe,2002,6.38,Units,,
+Germany,Europe,2003,6.20,Units,,
+Germany,Europe,2004,5.90,Units,,
+Germany,Europe,2005,7.21,Units,,
+Germany,Europe,2006,7.60,Units,,
+Germany,Europe,2007,7.54,Units,,
+Germany,Europe,2008,7.68,Units,,
+Germany,Europe,2009,7.52,Units,,
+Germany,Europe,2010,7.91,Units,,
+Germany,Europe,2011,8.09,Units,,
+Germany,Europe,2012,8.13,Units,,
+Germany,Europe,2013,9.38,Units,,
+Germany,Europe,2014,9.50,Units,,
+Germany,Europe,2015,10.29,Units,,
+Germany,Europe,2016,10.06,Units,,
+Germany,Europe,2017,10.43,Units,,
+Germany,Europe,2018,10.24,Units,,
+Honduras,Central America & Mexico,2000,46.46,Units,14.840625,3.13
+Honduras,Central America & Mexico,2001,47.12,Units,15.476825,3.04
+Honduras,Central America & Mexico,2002,47.52,Units,16.43705833,2.89
+Honduras,Central America & Mexico,2003,47.91,Units,17.35249167,2.76
+Honduras,Central America & Mexico,2004,49.15,Units,18.209725,2.70
+Honduras,Central America & Mexico,2005,65.12,Units,18.83234167,3.46
+Honduras,Central America & Mexico,2006,67.59,Units,18.89520833,3.58
+Honduras,Central America & Mexico,2007,69.96,Units,18.8951,3.70
+Honduras,Central America & Mexico,2008,76.78,Units,18.90375833,4.06
+Honduras,Central America & Mexico,2009,81.78,Units,18.8951,4.33
+Honduras,Central America & Mexico,2010,87.76,Units,18.8951,4.64
+Honduras,Central America & Mexico,2011,100.56,Units,18.91714167,5.32
+Honduras,Central America & Mexico,2012,108.63,Units,19.50224951,5.57
+Hungary,Europe,1994,906.67,Units,105.1604583,8.62
+Hungary,Europe,1995,1393.67,Units,125.681425,11.09
+Hungary,Europe,1996,1553.33,Units,152.6466667,10.18
+Hungary,Europe,1997,1600.00,Units,186.7891667,8.57
+Hungary,Europe,1998,1772.67,Units,214.4016667,8.27
+Hungary,Europe,1999,1793.33,Units,237.1458333,7.56
+Hungary,Europe,2000,1683.00,Units,282.1791667,5.96
+Hungary,Europe,2001,1637.00,Units,286.49,5.71
+Hungary,Europe,2002,1591.33,Units,257.8866667,6.17
+Hungary,Europe,2003,1558.67,Units,224.3066667,6.95
+Hungary,Europe,2004,1549.33,Units,202.7458333,7.64
+Hungary,Europe,2005,1631.00,Units,199.5825,8.17
+Hungary,Europe,2006,1693.33,Units,210.39,8.05
+Hungary,Europe,2007,1857.67,Units,183.6258333,10.12
+Hungary,Europe,2008,2054.00,Units,172.1133333,11.93
+Hungary,Europe,2009,2194.67,Units,202.3416667,10.85
+Hungary,Europe,2010,2293.67,Units,207.9441667,11.03
+Hungary,Europe,2011,2683.00,Units,201.055,13.34
+Hungary,Europe,2012,3010.33,Units,225.1041667,13.37
+Hungary,Europe,2013,2671.67,Units,223.695,11.94
+Hungary,Europe,2014,2485.33,Units,232.6016667,10.68
+Hungary,Europe,2015,2560.67,Units,279.3325,9.17
+Hungary,Europe,2016,2675.67,Units,281.5233333,9.50
+Hungary,Europe,2017,2914.33,Units,274.4333333,10.62
+Hungary,Europe,2018,2870.67,Units,270.2116667,10.62
+Italy,Europe,1963,2055.67,Units,625.0000006,3.29
+Italy,Europe,1964,2145.92,Units,625.0000006,3.43
+Italy,Europe,1965,2183.33,Units,625.0000006,3.49
+Italy,Europe,1966,2181.83,Units,625.0000006,3.49
+Italy,Europe,1967,2182.83,Units,625.0000006,3.49
+Italy,Europe,1968,2183.33,Units,625.0000006,3.49
+Italy,Europe,1969,2192.75,Units,625.0000006,3.51
+Italy,Europe,1970,2286.83,Units,625.0000006,3.66
+Italy,Europe,1971,2325.67,Units,620.3592893,3.75
+Italy,Europe,1972,2353.50,Units,583.2175,4.04
+Italy,Europe,1973,2475.17,Units,582.9958333,4.25
+Italy,Europe,1974,2826.83,Units,650.3433333,4.35
+Italy,Europe,1975,3154.75,Units,652.8491667,4.83
+Italy,Europe,1976,4420.50,Units,832.335,5.31
+Italy,Europe,1977,8461.25,Units,882.3883333,9.59
+Italy,Europe,1978,8005.00,Units,848.6633333,9.43
+Italy,Europe,1979,7649.83,Units,830.8616667,9.21
+Italy,Europe,1980,8025.58,Units,856.4475,9.37
+Italy,Europe,1981,8245.33,Units,1136.765,7.25
+Italy,Europe,1982,8853.83,Units,1352.51,6.55
+Italy,Europe,1983,9763.83,Units,1518.848333,6.43
+Italy,Europe,1984,11092.58,Units,1756.960833,6.31
+Italy,Europe,1985,12716.00,Units,1909.439167,6.66
+Italy,Europe,1986,14649.42,Units,1490.81,9.83
+Italy,Europe,1987,14459.33,Units,1296.07,11.16
+Italy,Europe,1988,13631.50,Units,1301.6275,10.47
+Italy,Europe,1989,13777.17,Units,1372.093333,10.04
+Italy,Europe,1990,14011.08,Units,1198.101667,11.69
+Italy,Europe,1991,15341.92,Units,1240.613333,12.37
+Italy,Europe,1992,15847.58,Units,1232.405833,12.86
+Italy,Europe,1993,15890.67,Units,1573.665867,10.10
+Italy,Europe,1994,16598.50,Units,1612.444983,10.29
+Italy,Europe,1995,20473.50,Units,1628.933158,12.57
+Italy,Europe,1996,20134.67,Units,1542.946967,13.05
+Italy,Europe,1997,20469.08,Units,1703.096908,12.02
+Italy,Europe,1998,21145.00,Units,1736.207383,12.18
+Italy,Europe,1999,20650.25,Units,,
+Italy,Europe,2000,20530.17,Units,,
+Italy,Europe,2001,20644.58,Units,,
+Italy,Europe,2002,10.68,Units,,
+Italy,Europe,2003,10.66,Units,,
+Italy,Europe,2004,10.66,Units,,
+Italy,Europe,2005,10.85,Units,,
+Italy,Europe,2006,11.05,Units,,
+Italy,Europe,2007,11.28,Units,,
+Italy,Europe,2008,11.79,Units,,
+Italy,Europe,2009,12.15,Units,,
+Italy,Europe,2010,12.20,Units,,
+Italy,Europe,2011,13.51,Units,,
+Italy,Europe,2012,14.57,Units,,
+Italy,Europe,2013,14.92,Units,,
+Italy,Europe,2014,14.68,Units,,
+Italy,Europe,2015,14.86,Units,,
+Italy,Europe,2016,14.84,Units,,
+Italy,Europe,2017,14.98,Units,,
+Italy,Europe,2018,15.14,Units,,
+Japan,Asia & Oceania,1982,3530.00,Units,249.0766667,14.17
+Japan,Asia & Oceania,1983,3575.00,Units,237.5116667,15.05
+Japan,Asia & Oceania,1984,3600.00,Units,237.5225,15.16
+Japan,Asia & Oceania,1985,3758.33,Units,238.5358333,15.76
+Japan,Asia & Oceania,1986,3637.08,Units,168.5198333,21.58
+Japan,Asia & Oceania,1987,3227.08,Units,144.6375,22.31
+Japan,Asia & Oceania,1988,3104.58,Units,128.1516667,24.23
+Japan,Asia & Oceania,1989,3176.67,Units,137.9644167,23.03
+Japan,Asia & Oceania,1990,3257.08,Units,144.7925,22.49
+Japan,Asia & Oceania,1991,3525.83,Units,134.7066667,26.17
+Japan,Asia & Oceania,1992,3520.00,Units,126.6513333,27.79
+Japan,Asia & Oceania,1993,3562.08,Units,111.1977858,32.03
+Japan,Asia & Oceania,1994,3306.25,Units,102.2078058,32.35
+Japan,Asia & Oceania,1995,3647.92,Units,94.05957917,38.78
+Japan,Asia & Oceania,1996,3653.33,Units,108.7790567,33.58
+Japan,Asia & Oceania,1997,3787.92,Units,120.9908625,31.31
+Japan,Asia & Oceania,1998,3886.67,Units,130.9053007,29.69
+Japan,Asia & Oceania,1999,3835.83,Units,113.906805,33.68
+Japan,Asia & Oceania,2000,3062.92,Units,107.7654983,28.42
+Japan,Asia & Oceania,2001,2302.50,Units,121.5289475,18.95
+Japan,Asia & Oceania,2002,2243.75,Units,125.3880192,17.89
+Japan,Asia & Oceania,2003,2090.83,Units,115.9334642,18.03
+Japan,Asia & Oceania,2004,2087.50,Units,108.1925692,19.29
+Japan,Asia & Oceania,2005,1993.75,Units,110.2182117,18.09
+Japan,Asia & Oceania,2006,2092.50,Units,116.2993117,17.99
+Japan,Asia & Oceania,2007,5245.83,Units,117.7535292,44.55
+Japan,Asia & Oceania,2008,4769.17,Units,103.359494,46.14
+Japan,Asia & Oceania,2009,1251.67,Units,93.57008909,13.38
+Japan,Asia & Oceania,2010,1235.83,Units,87.779875,14.08
+Japan,Asia & Oceania,2011,1291.67,Units,79.80701983,16.18
+Japan,Asia & Oceania,2012,1330.83,Units,79.79045542,16.68
+Japan,Asia & Oceania,2013,1300.00,Units,97.59565828,13.32
+Japan,Asia & Oceania,2014,1325.00,Units,105.944781,12.51
+Japan,Asia & Oceania,2015,1495.00,Units,121.0440257,12.35
+Japan,Asia & Oceania,2016,1486.67,Units,108.7929,13.67
+Japan,Asia & Oceania,2017,1471.67,Units,112.1661411,13.12
+Japan,Asia & Oceania,2018,1411.67,Units,110.4231793,12.78
+Latvia,Europe,1993,2.54,Units,0.675333333,3.76
+Latvia,Europe,1994,2.73,Units,0.55975,4.87
+Latvia,Europe,1995,4.50,Units,0.527583333,8.54
+Latvia,Europe,1996,5.08,Units,0.55075,9.22
+Latvia,Europe,1997,5.87,Units,0.580916667,10.10
+Latvia,Europe,1998,6.38,Units,0.589833333,10.81
+Latvia,Europe,1999,5.42,Units,0.585166667,9.26
+Latvia,Europe,2000,5.30,Units,0.6065,8.74
+Latvia,Europe,2001,4.53,Units,0.627916667,7.22
+Latvia,Europe,2002,4.38,Units,0.618191667,7.09
+Latvia,Europe,2003,4.22,Units,0.571475,7.39
+Latvia,Europe,2004,4.43,Units,0.540233333,8.19
+Latvia,Europe,2005,4.89,Units,0.564716667,8.66
+Latvia,Europe,2006,5.29,Units,0.560408333,9.44
+Latvia,Europe,2007,5.46,Units,0.513791667,10.62
+Latvia,Europe,2008,6.22,Units,0.480816667,12.94
+Latvia,Europe,2009,6.79,Units,0.50555,13.42
+Latvia,Europe,2010,7.12,Units,0.530475,13.41
+Latvia,Europe,2011,9.56,Units,0.501233333,19.08
+Latvia,Europe,2012,9.74,Units,0.546875,17.80
+Latvia,Europe,2013,8.78,Units,0.529391667,16.59
+Latvia,Europe,2014,11.46,Units,,
+Latvia,Europe,2015,13.05,Units,,
+Latvia,Europe,2016,12.87,Units,,
+Latvia,Europe,2017,13.09,Units,,
+Latvia,Europe,2018,12.30,Units,,
+Lithuania,Europe,1997,41.80,Units,4,10.45
+Lithuania,Europe,1998,41.93,Units,4,10.48
+Lithuania,Europe,1999,38.24,Units,4,9.56
+Lithuania,Europe,2000,31.91,Units,4,7.98
+Lithuania,Europe,2001,28.66,Units,4,7.17
+Lithuania,Europe,2002,27.42,Units,3.676958333,7.46
+Lithuania,Europe,2003,25.60,Units,3.060866667,8.36
+Lithuania,Europe,2004,22.76,Units,2.780591667,8.19
+Lithuania,Europe,2005,23.11,Units,2.774025,8.33
+Lithuania,Europe,2006,24.37,Units,2.752225,8.85
+Lithuania,Europe,2007,25.49,Units,2.523725,10.10
+Lithuania,Europe,2008,28.15,Units,2.357075,11.94
+Lithuania,Europe,2009,28.20,Units,2.484033333,11.35
+Lithuania,Europe,2010,30.79,Units,2.606333333,11.81
+Lithuania,Europe,2011,42.65,Units,2.4811,17.19
+Lithuania,Europe,2012,41.95,Units,2.686291667,15.62
+Lithuania,Europe,2013,37.87,Units,2.601008333,14.56
+Lithuania,Europe,2014,37.63,Units,2.600291667,14.47
+Lithuania,Europe,2015,12.03,Units,,
+Lithuania,Europe,2016,12.10,Units,,
+Lithuania,Europe,2017,12.29,Units,,
+Lithuania,Europe,2018,11.94,Units,,
+Luxembourg,Europe,1999,412.45,Units,,
+Luxembourg,Europe,2000,407.38,Units,,
+Luxembourg,Europe,2001,404.22,Units,,
+Luxembourg,Europe,2002,10.01,Units,,
+Luxembourg,Europe,2003,10.30,Units,,
+Luxembourg,Europe,2004,10.27,Units,,
+Luxembourg,Europe,2005,10.70,Units,,
+Luxembourg,Europe,2006,11.30,Units,,
+Luxembourg,Europe,2007,10.92,Units,,
+Luxembourg,Europe,2008,11.28,Units,,
+Luxembourg,Europe,2009,11.54,Units,,
+Luxembourg,Europe,2010,11.81,Units,,
+Luxembourg,Europe,2011,13.12,Units,,
+Luxembourg,Europe,2012,13.54,Units,,
+Luxembourg,Europe,2013,13.60,Units,,
+Luxembourg,Europe,2014,13.14,Units,,
+Luxembourg,Europe,2015,13.85,Units,,
+Luxembourg,Europe,2016,14.43,Units,,
+Luxembourg,Europe,2017,14.75,Units,,
+"Netherlands, The",Europe,1964,7.76,Units,3.620000003,2.14
+"Netherlands, The",Europe,1965,7.33,Units,3.620000003,2.03
+"Netherlands, The",Europe,1966,7.85,Units,3.620000003,2.17
+"Netherlands, The",Europe,1967,7.50,Units,3.620000003,2.07
+"Netherlands, The",Europe,1968,7.59,Units,3.620000003,2.10
+"Netherlands, The",Europe,1969,7.67,Units,3.620000003,2.12
+"Netherlands, The",Europe,1970,9.09,Units,3.620000003,2.51
+"Netherlands, The",Europe,1971,9.25,Units,3.517080539,2.63
+"Netherlands, The",Europe,1972,9.13,Units,3.209499999,2.85
+"Netherlands, The",Europe,1973,9.77,Units,2.795549999,3.49
+"Netherlands, The",Europe,1974,9.75,Units,2.688383332,3.63
+"Netherlands, The",Europe,1975,9.46,Units,2.528991666,3.74
+"Netherlands, The",Europe,1976,13.48,Units,2.643941666,5.10
+"Netherlands, The",Europe,1977,22.58,Units,2.454249999,9.20
+"Netherlands, The",Europe,1978,16.84,Units,2.163583333,7.78
+"Netherlands, The",Europe,1979,14.56,Units,2.005991666,7.26
+"Netherlands, The",Europe,1980,14.81,Units,1.988116666,7.45
+"Netherlands, The",Europe,1981,14.46,Units,2.495199999,5.80
+"Netherlands, The",Europe,1982,16.75,Units,2.670208332,6.27
+"Netherlands, The",Europe,1983,17.08,Units,2.854124999,5.98
+"Netherlands, The",Europe,1984,19.93,Units,3.208683333,6.21
+"Netherlands, The",Europe,1985,19.91,Units,3.3214,5.99
+"Netherlands, The",Europe,1986,22.08,Units,2.450025,9.01
+"Netherlands, The",Europe,1987,14.45,Units,2.0257,7.13
+"Netherlands, The",Europe,1988,13.89,Units,1.976583333,7.03
+"Netherlands, The",Europe,1989,14.04,Units,2.1207375,6.62
+"Netherlands, The",Europe,1990,12.12,Units,1.820941667,6.66
+"Netherlands, The",Europe,1991,12.12,Units,1.869666667,6.48
+"Netherlands, The",Europe,1992,12.12,Units,1.758466333,6.89
+"Netherlands, The",Europe,1993,11.43,Units,1.857305167,6.15
+"Netherlands, The",Europe,1994,12.95,Units,1.819995083,7.11
+"Netherlands, The",Europe,1995,14.24,Units,1.60567525,8.87
+"Netherlands, The",Europe,1996,13.53,Units,1.68589675,8.03
+"Netherlands, The",Europe,1997,15.80,Units,1.951269917,8.10
+"Netherlands, The",Europe,1998,16.07,Units,1.983733,8.10
+"Netherlands, The",Europe,1999,14.15,Units,,
+"Netherlands, The",Europe,2000,14.80,Units,,
+"Netherlands, The",Europe,2001,13.85,Units,,
+"Netherlands, The",Europe,2002,6.08,Units,,
+"Netherlands, The",Europe,2003,6.24,Units,,
+"Netherlands, The",Europe,2004,6.16,Units,,
+"Netherlands, The",Europe,2005,6.64,Units,,
+"Netherlands, The",Europe,2006,6.96,Units,,
+"Netherlands, The",Europe,2007,7.16,Units,,
+"Netherlands, The",Europe,2008,7.56,Units,,
+"Netherlands, The",Europe,2009,7.44,Units,,
+"Netherlands, The",Europe,2010,7.60,Units,,
+"Netherlands, The",Europe,2011,9.48,Units,,
+"Netherlands, The",Europe,2012,10.00,Units,,
+"Netherlands, The",Europe,2013,9.52,Units,,
+"Netherlands, The",Europe,2014,9.48,Units,,
+"Netherlands, The",Europe,2015,2.67,Units,,
+"Netherlands, The",Europe,2016,9.51,Units,,
+"Netherlands, The",Europe,2017,9.43,Units,,
+"Netherlands, The",Europe,2018,8.73,Units,,
+Nicaragua,Central America & Mexico,2011,178.49,Units,22.42427062,7.96
+Nicaragua,Central America & Mexico,2012,214.46,Units,23.54666353,9.11
+Nicaragua,Central America & Mexico,2013,201.93,Units,24.72276417,8.17
+Nicaragua,Central America & Mexico,2014,195.48,Units,25.95890037,7.53
+Nicaragua,Central America & Mexico,2015,236.73,Units,27.25684494,8.69
+Nicaragua,Central America & Mexico,2016,230.34,Units,28.62096241,8.05
+Nicaragua,Central America & Mexico,2017,235.40,Units,30.05094134,7.83
+Nicaragua,Central America & Mexico,2018,283.14,Units,31.55321233,8.97
+Norway,Europe,1963,12.16,Units,7.142860006,1.70
+Norway,Europe,1964,15.26,Units,7.142860006,2.14
+Norway,Europe,1965,15.93,Units,7.142860006,2.23
+Norway,Europe,1966,15.19,Units,7.142860006,2.13
+Norway,Europe,1967,14.53,Units,7.142860006,2.03
+Norway,Europe,1968,14.18,Units,7.142860006,1.99
+Norway,Europe,1969,14.50,Units,7.142860006,2.03
+Norway,Europe,1970,19.38,Units,7.142860006,2.71
+Norway,Europe,1971,17.97,Units,7.055905471,2.55
+Norway,Europe,1972,17.59,Units,6.588249172,2.67
+Norway,Europe,1973,19.98,Units,5.765833332,3.46
+Norway,Europe,1974,20.73,Units,5.539708332,3.74
+Norway,Europe,1975,19.18,Units,5.226941666,3.67
+Norway,Europe,1976,29.79,Units,5.456516666,5.46
+Norway,Europe,1977,49.68,Units,5.323499999,9.33
+Norway,Europe,1978,44.25,Units,5.242249999,8.44
+Norway,Europe,1979,39.74,Units,5.064066666,7.85
+Norway,Europe,1980,42.55,Units,4.939224999,8.61
+Norway,Europe,1981,36.73,Units,5.739508332,6.40
+Norway,Europe,1982,42.62,Units,6.454033332,6.60
+Norway,Europe,1983,46.78,Units,7.296366666,6.41
+Norway,Europe,1984,54.23,Units,8.161458333,6.65
+Norway,Europe,1985,58.03,Units,8.597233333,6.75
+Norway,Europe,1986,77.43,Units,7.394741667,10.47
+Norway,Europe,1987,54.45,Units,6.73745,8.08
+Norway,Europe,1988,52.68,Units,6.516983333,8.08
+Norway,Europe,1989,54.77,Units,6.9045,7.93
+Norway,Europe,1990,45.58,Units,6.259741667,7.28
+Norway,Europe,1991,45.03,Units,6.4829425,6.95
+Norway,Europe,1992,42.58,Units,6.214500833,6.85
+Norway,Europe,1993,38.41,Units,7.094129167,5.41
+Norway,Europe,1994,50.69,Units,7.057584167,7.18
+Norway,Europe,1995,63.43,Units,6.335156667,10.01
+Norway,Europe,1996,55.44,Units,6.449808333,8.60
+Norway,Europe,1997,64.29,Units,7.073400833,9.09
+Norway,Europe,1998,65.00,Units,7.5450975,8.62
+Norway,Europe,1999,57.49,Units,7.799171667,7.37
+Norway,Europe,2000,57.79,Units,8.801841667,6.57
+Norway,Europe,2001,56.60,Units,8.991654167,6.29
+Norway,Europe,2002,54.11,Units,7.983778833,6.78
+Norway,Europe,2003,54.29,Units,7.080216667,7.67
+Norway,Europe,2004,56.91,Units,6.740833333,8.44
+Norway,Europe,2005,58.28,Units,6.4425,9.05
+Norway,Europe,2006,54.94,Units,6.413333333,8.57
+Norway,Europe,2007,57.51,Units,5.861666667,9.81
+Norway,Europe,2008,57.08,Units,5.64,10.12
+Norway,Europe,2009,55.37,Units,6.288333333,8.81
+Norway,Europe,2010,59.64,Units,6.044166667,9.87
+Norway,Europe,2011,285.46,Units,5.604607307,50.93
+Norway,Europe,2012,281.16,Units,5.8175,48.33
+Norway,Europe,2013,261.35,Units,5.875,44.49
+Norway,Europe,2014,103.84,Units,6.301666667,16.48
+Norway,Europe,2015,102.99,Units,8.064166667,12.77
+Norway,Europe,2016,102.94,Units,8.4,12.25
+Norway,Europe,2017,102.53,Units,8.271666667,12.40
+Norway,Europe,2018,102.95,Units,8.1325,12.66
+"Poland, Rep. of",Europe,1995,30.30,Units,2.424983333,12.49
+"Poland, Rep. of",Europe,1996,25.91,Units,2.6961,9.61
+"Poland, Rep. of",Europe,1997,25.54,Units,3.279291667,7.79
+"Poland, Rep. of",Europe,1998,27.78,Units,3.4754,7.99
+"Poland, Rep. of",Europe,1999,27.81,Units,3.967108333,7.01
+"Poland, Rep. of",Europe,2000,26.87,Units,4.346075,6.18
+"Poland, Rep. of",Europe,2001,23.15,Units,4.0939,5.65
+"Poland, Rep. of",Europe,2002,19.00,Units,4.080033333,4.66
+"Poland, Rep. of",Europe,2003,18.19,Units,3.889075,4.68
+"Poland, Rep. of",Europe,2004,18.10,Units,3.657641667,4.95
+"Poland, Rep. of",Europe,2005,18.26,Units,3.235483333,5.64
+"Poland, Rep. of",Europe,2006,18.89,Units,3.103158333,6.09
+"Poland, Rep. of",Europe,2007,21.16,Units,2.76795,7.65
+"Poland, Rep. of",Europe,2008,23.33,Units,2.409241667,9.68
+"Poland, Rep. of",Europe,2009,23.80,Units,3.120141667,7.63
+"Poland, Rep. of",Europe,2010,24.12,Units,3.0153,8.00
+"Poland, Rep. of",Europe,2011,27.03,Units,2.962847778,9.12
+"Poland, Rep. of",Europe,2012,29.86,Units,3.256541667,9.17
+"Poland, Rep. of",Europe,2013,27.29,Units,3.160616667,8.63
+"Poland, Rep. of",Europe,2014,26.74,Units,3.154541667,8.48
+"Poland, Rep. of",Europe,2015,27.23,Units,3.7695,7.22
+"Poland, Rep. of",Europe,2016,27.56,Units,3.942783333,6.99
+"Poland, Rep. of",Europe,2017,28.68,Units,3.779333333,7.59
+"Poland, Rep. of",Europe,2018,29.83,Units,3.611716667,8.26
+Portugal,Europe,1978,455.62,Units,43.93733333,10.37
+Portugal,Europe,1979,475.73,Units,48.92346667,9.72
+Portugal,Europe,1980,578.31,Units,50.06213333,11.55
+Portugal,Europe,1981,570.49,Units,61.546375,9.27
+Portugal,Europe,1982,589.10,Units,79.47333333,7.41
+Portugal,Europe,1983,771.77,Units,110.7798333,6.97
+Portugal,Europe,1984,1095.36,Units,146.3903333,7.48
+Portugal,Europe,1985,1339.16,Units,170.3946667,7.86
+Portugal,Europe,1986,1514.71,Units,149.58675,10.13
+Portugal,Europe,1987,1427.99,Units,140.8824167,10.14
+Portugal,Europe,1988,1316.78,Units,143.9539167,9.15
+Portugal,Europe,1989,1296.90,Units,157.45825,8.24
+Portugal,Europe,1990,1291.50,Units,142.55475,9.06
+Portugal,Europe,1991,1355.81,Units,144.482,9.38
+Portugal,Europe,1992,1468.04,Units,134.9978333,10.87
+Portugal,Europe,1993,1505.82,Units,160.8001858,9.36
+Portugal,Europe,1994,1588.20,Units,165.9927767,9.57
+Portugal,Europe,1995,2060.26,Units,151.1055283,13.63
+Portugal,Europe,1996,2013.77,Units,154.2436617,13.06
+Portugal,Europe,1997,1946.97,Units,175.312445,11.11
+Portugal,Europe,1998,1935.74,Units,180.10448,10.75
+Portugal,Europe,1999,1927.70,Units,,
+Portugal,Europe,2000,1890.26,Units,,
+Portugal,Europe,2001,1912.12,Units,,
+Portugal,Europe,2002,9.11,Units,,
+Portugal,Europe,2003,8.99,Units,,
+Portugal,Europe,2004,8.70,Units,,
+Portugal,Europe,2005,8.64,Units,,
+Portugal,Europe,2006,8.38,Units,,
+Portugal,Europe,2007,8.17,Units,,
+Portugal,Europe,2008,8.52,Units,,
+Portugal,Europe,2009,8.39,Units,,
+Portugal,Europe,2010,8.20,Units,,
+Portugal,Europe,2011,8.48,Units,,
+Portugal,Europe,2012,9.76,Units,,
+Portugal,Europe,2013,9.61,Units,,
+Portugal,Europe,2014,9.51,Units,,
+Portugal,Europe,2015,9.92,Units,,
+Portugal,Europe,2016,9.82,Units,,
+Portugal,Europe,2017,9.84,Units,,
+Portugal,Europe,2018,10.01,Units,,
+Russian Federation,Europe,2010,470.67,Units,30.36791534,15.50
+Russian Federation,Europe,2011,502.10,Units,29.38234137,17.09
+Russian Federation,Europe,2012,584.80,Units,30.83983135,18.96
+Russian Federation,Europe,2013,609.60,Units,31.83714364,19.15
+Russian Federation,Europe,2014,637.24,Units,38.37820714,16.60
+Russian Federation,Europe,2015,856.40,Units,60.93765011,14.05
+Russian Federation,Europe,2016,976.14,Units,67.05593333,14.56
+Russian Federation,Europe,2017,1008.37,Units,58.34280119,17.28
+Russian Federation,Europe,2018,996.54,Units,62.66813333,15.90
+Slovak Rep.,Europe,1997,251.26,Units,33.61616667,7.47
+Slovak Rep.,Europe,1998,270.23,Units,35.23341667,7.67
+Slovak Rep.,Europe,1999,259.69,Units,41.36283333,6.28
+Slovak Rep.,Europe,2000,246.73,Units,46.03516667,5.36
+Slovak Rep.,Europe,2001,240.43,Units,48.35483333,4.97
+Slovak Rep.,Europe,2002,219.39,Units,45.32675,4.84
+Slovak Rep.,Europe,2003,200.03,Units,36.77291667,5.44
+Slovak Rep.,Europe,2004,191.76,Units,32.25691667,5.94
+Slovak Rep.,Europe,2005,190.12,Units,31.01825,6.13
+Slovak Rep.,Europe,2006,199.25,Units,29.69725,6.71
+Slovak Rep.,Europe,2007,210.82,Units,24.69433333,8.54
+Slovak Rep.,Europe,2008,235.21,Units,21.36141667,11.01
+Slovak Rep.,Europe,2009,8.04,Units,,
+Slovak Rep.,Europe,2010,8.05,Units,,
+Slovak Rep.,Europe,2011,0.96,Units,,
+Slovak Rep.,Europe,2012,1.15,Units,,
+Slovak Rep.,Europe,2013,11.32,Units,,
+Slovak Rep.,Europe,2014,11.06,Units,,
+Slovak Rep.,Europe,2015,44.50,Units,,
+Slovak Rep.,Europe,2016,11.44,Units,,
+Slovak Rep.,Europe,2017,11.71,Units,,
+Slovak Rep.,Europe,2018,11.90,Units,,
+"Slovenia, Rep. of",Europe,1999,1883.09,Units,181.7691933,10.36
+"Slovenia, Rep. of",Europe,2000,1736.31,Units,222.6560858,7.80
+"Slovenia, Rep. of",Europe,2001,1628.95,Units,242.748835,6.71
+"Slovenia, Rep. of",Europe,2002,1640.31,Units,240.248215,6.83
+"Slovenia, Rep. of",Europe,2003,1705.00,Units,207.1137157,8.23
+"Slovenia, Rep. of",Europe,2004,1579.46,Units,192.3811243,8.21
+"Slovenia, Rep. of",Europe,2005,1581.57,Units,192.705468,8.21
+"Slovenia, Rep. of",Europe,2006,1673.31,Units,191.0282578,8.76
+"Slovenia, Rep. of",Europe,2007,7.28,Units,,
+"Slovenia, Rep. of",Europe,2008,7.46,Units,,
+"Slovenia, Rep. of",Europe,2009,7.55,Units,,
+"Slovenia, Rep. of",Europe,2010,7.15,Units,,
+"Slovenia, Rep. of",Europe,2011,7.60,Units,,
+"Slovenia, Rep. of",Europe,2012,7.68,Units,,
+"Slovenia, Rep. of",Europe,2013,7.93,Units,,
+"Slovenia, Rep. of",Europe,2014,7.67,Units,,
+"Slovenia, Rep. of",Europe,2015,8.00,Units,,
+"Slovenia, Rep. of",Europe,2016,7.88,Units,,
+"Slovenia, Rep. of",Europe,2017,8.19,Units,,
+Spain,Europe,1977,689.30,Units,75.96183333,9.07
+Spain,Europe,1978,623.98,Units,76.66783333,8.14
+Spain,Europe,1979,553.99,Units,67.125,8.25
+Spain,Europe,1980,572.85,Units,71.70191667,7.99
+Spain,Europe,1981,579.00,Units,92.32183333,6.27
+Spain,Europe,1982,623.53,Units,109.8591667,5.68
+Spain,Europe,1983,751.57,Units,143.4299167,5.24
+Spain,Europe,1984,956.79,Units,160.761,5.95
+Spain,Europe,1985,1087.00,Units,170.0440833,6.39
+Spain,Europe,1986,1197.75,Units,140.0483754,8.55
+Spain,Europe,1987,1207.39,Units,123.4783333,9.78
+Spain,Europe,1988,931.73,Units,116.4868333,8.00
+Spain,Europe,1989,795.25,Units,118.3776667,6.72
+Spain,Europe,1990,811.24,Units,101.9339167,7.96
+Spain,Europe,1991,800.04,Units,103.9115833,7.70
+Spain,Europe,1992,786.20,Units,102.3790833,7.68
+Spain,Europe,1993,778.20,Units,127.2604167,6.11
+Spain,Europe,1994,813.72,Units,133.957955,6.07
+Spain,Europe,1995,1221.27,Units,124.689,9.79
+Spain,Europe,1996,1166.94,Units,126.6615833,9.21
+Spain,Europe,1997,1151.11,Units,146.4136283,7.86
+Spain,Europe,1998,1191.15,Units,149.3953317,7.97
+Spain,Europe,1999,1108.75,Units,,
+Spain,Europe,2000,1067.75,Units,,
+Spain,Europe,2001,1041.02,Units,,
+Spain,Europe,2002,6.03,Units,,
+Spain,Europe,2003,5.85,Units,,
+Spain,Europe,2004,5.74,Units,,
+Spain,Europe,2005,5.71,Units,,
+Spain,Europe,2006,6.01,Units,,
+Spain,Europe,2007,6.19,Units,,
+Spain,Europe,2008,6.46,Units,,
+Spain,Europe,2009,6.59,Units,,
+Spain,Europe,2010,6.51,Units,,
+Spain,Europe,2011,7.00,Units,,
+Spain,Europe,2012,7.66,Units,,
+Spain,Europe,2013,7.52,Units,,
+Spain,Europe,2014,7.36,Units,,
+Spain,Europe,2015,7.58,Units,,
+Spain,Europe,2016,7.43,Units,,
+Spain,Europe,2017,7.49,Units,,
+Spain,Europe,2018,7.65,Units,,
+Sweden,Europe,1963,8.58,Units,5.173210004,1.66
+Sweden,Europe,1964,9.83,Units,5.173210004,1.90
+Sweden,Europe,1965,9.96,Units,5.173210004,1.93
+Sweden,Europe,1966,9.86,Units,5.173210004,1.91
+Sweden,Europe,1967,9.45,Units,5.173210004,1.83
+Sweden,Europe,1968,9.29,Units,5.173210004,1.80
+Sweden,Europe,1969,9.29,Units,5.173210004,1.80
+Sweden,Europe,1970,11.70,Units,5.173210004,2.26
+Sweden,Europe,1971,12.05,Units,5.125905248,2.35
+Sweden,Europe,1972,12.03,Units,4.762416666,2.53
+Sweden,Europe,1973,13.73,Units,4.367249999,3.14
+Sweden,Europe,1974,15.17,Units,4.439424999,3.42
+Sweden,Europe,1975,15.39,Units,4.152191666,3.71
+Sweden,Europe,1976,23.73,Units,4.355891666,5.45
+Sweden,Europe,1977,41.93,Units,4.481641666,9.36
+Sweden,Europe,1978,37.08,Units,4.518474999,8.21
+Sweden,Europe,1979,32.96,Units,4.287083332,7.69
+Sweden,Europe,1980,35.23,Units,4.229574999,8.33
+Sweden,Europe,1981,33.18,Units,5.063441666,6.55
+Sweden,Europe,1982,40.26,Units,6.282608332,6.41
+Sweden,Europe,1983,46.22,Units,7.667108332,6.03
+Sweden,Europe,1984,56.57,Units,8.271799999,6.84
+Sweden,Europe,1985,60.84,Units,8.603925,7.07
+Sweden,Europe,1986,77.11,Units,7.123583333,10.83
+Sweden,Europe,1987,52.12,Units,6.340441667,8.22
+Sweden,Europe,1988,51.63,Units,6.12715,8.43
+Sweden,Europe,1989,54.20,Units,6.446875833,8.41
+Sweden,Europe,1990,44.76,Units,5.91879,7.56
+Sweden,Europe,1991,43.83,Units,6.047466667,7.25
+Sweden,Europe,1992,39.69,Units,5.823833333,6.82
+Sweden,Europe,1993,45.38,Units,7.783426667,5.83
+Sweden,Europe,1994,63.98,Units,7.71597,8.29
+Sweden,Europe,1995,76.25,Units,7.133268333,10.69
+Sweden,Europe,1996,58.51,Units,6.705955833,8.73
+Sweden,Europe,1997,73.42,Units,7.634894167,9.62
+Sweden,Europe,1998,77.33,Units,7.949868167,9.73
+Sweden,Europe,1999,63.84,Units,8.262428333,7.73
+Sweden,Europe,2000,61.03,Units,9.162244167,6.66
+Sweden,Europe,2001,57.61,Units,10.32913583,5.58
+Sweden,Europe,2002,54.62,Units,9.737123333,5.61
+Sweden,Europe,2003,52.23,Units,8.086304167,6.46
+Sweden,Europe,2004,49.90,Units,7.348886667,6.79
+Sweden,Europe,2005,49.18,Units,7.473088333,6.58
+Sweden,Europe,2006,51.28,Units,7.378249167,6.95
+Sweden,Europe,2007,52.51,Units,6.75877,7.77
+Sweden,Europe,2008,54.15,Units,6.591099167,8.22
+Sweden,Europe,2009,59.53,Units,7.653819167,7.78
+Sweden,Europe,2010,63.19,Units,7.207524167,8.77
+Sweden,Europe,2011,79.90,Units,6.493543333,12.30
+Sweden,Europe,2012,77.62,Units,6.775015833,11.46
+Sweden,Europe,2013,62.25,Units,6.513971667,9.56
+Sweden,Europe,2014,62.20,Units,6.860785,9.07
+Sweden,Europe,2015,71.06,Units,8.434840833,8.42
+Sweden,Europe,2016,65.64,Units,8.561991667,7.67
+Sweden,Europe,2017,67.25,Units,8.548860833,7.87
+Sweden,Europe,2018,62.01,Units,8.692518333,7.13
+Switzerland,Europe,1964,11.48,Units,4.372950003,2.63
+Switzerland,Europe,1965,11.76,Units,4.372950003,2.69
+Switzerland,Europe,1966,11.78,Units,4.372950003,2.69
+Switzerland,Europe,1967,11.45,Units,4.372950003,2.62
+Switzerland,Europe,1968,11.42,Units,4.372950003,2.61
+Switzerland,Europe,1969,11.40,Units,4.372950003,2.61
+Switzerland,Europe,1970,11.85,Units,4.372950003,2.71
+Switzerland,Europe,1971,12.05,Units,4.133854168,2.92
+Switzerland,Europe,1972,12.06,Units,3.819249999,3.16
+Switzerland,Europe,1973,12.47,Units,3.164833332,3.94
+Switzerland,Europe,1974,13.18,Units,2.979249999,4.42
+Switzerland,Europe,1975,13.09,Units,2.581283332,5.07
+Switzerland,Europe,1976,14.06,Units,2.499641666,5.62
+Switzerland,Europe,1977,21.68,Units,2.403524999,9.02
+Switzerland,Europe,1978,18.21,Units,1.788024999,10.18
+Switzerland,Europe,1979,14.83,Units,1.662724999,8.92
+Switzerland,Europe,1980,15.74,Units,1.675708333,9.39
+Switzerland,Europe,1981,14.86,Units,1.964241666,7.57
+Switzerland,Europe,1982,15.41,Units,2.030274999,7.59
+Switzerland,Europe,1983,15.73,Units,2.099141666,7.49
+Switzerland,Europe,1984,16.58,Units,2.349683333,7.06
+Switzerland,Europe,1985,17.99,Units,2.457125,7.32
+Switzerland,Europe,1986,19.14,Units,1.798916667,10.64
+Switzerland,Europe,1987,16.21,Units,1.491191667,10.87
+Switzerland,Europe,1988,14.74,Units,1.4633,10.07
+Switzerland,Europe,1989,14.74,Units,1.635925,9.01
+Switzerland,Europe,1990,14.73,Units,1.389158333,10.61
+Switzerland,Europe,1991,13.72,Units,1.433991667,9.57
+Switzerland,Europe,1992,13.95,Units,1.406218333,9.92
+Switzerland,Europe,1993,13.89,Units,1.477616667,9.40
+Switzerland,Europe,1994,13.51,Units,1.3676925,9.88
+Switzerland,Europe,1995,16.46,Units,1.182469167,13.92
+Switzerland,Europe,1996,14.76,Units,1.23601,11.94
+Switzerland,Europe,1997,15.31,Units,1.4513125,10.55
+Switzerland,Europe,1998,16.08,Units,1.449813308,11.09
+Switzerland,Europe,1999,15.92,Units,1.502155,10.60
+Switzerland,Europe,2000,15.22,Units,1.6888425,9.01
+Switzerland,Europe,2001,15.19,Units,1.687615,9.00
+Switzerland,Europe,2002,15.28,Units,1.5586075,9.81
+Switzerland,Europe,2003,15.20,Units,1.346650833,11.29
+Switzerland,Europe,2004,15.56,Units,1.243495833,12.52
+Switzerland,Europe,2005,16.07,Units,1.245176667,12.91
+Switzerland,Europe,2009,12.49,Units,1.088141696,11.48
+Switzerland,Europe,2010,15.12,Units,1.042905646,14.50
+Turkey,Asia & Oceania,1994,0.30,Units,0.029608676,10.05
+Turkey,Asia & Oceania,1995,0.47,Units,0.045845061,10.27
+Turkey,Asia & Oceania,1996,0.69,Units,0.081404892,8.41
+Turkey,Asia & Oceania,1997,1.33,Units,0.151865,8.74
+Turkey,Asia & Oceania,1998,2.70,Units,0.26072425,10.34
+Turkey,Asia & Oceania,1999,3.14,Units,0.418782917,7.51
+Turkey,Asia & Oceania,2000,4.40,Units,0.6252185,7.03
+Turkey,Asia & Oceania,2001,6.64,Units,1.225588083,5.42
+Turkey,Asia & Oceania,2002,8.25,Units,1.507226417,5.48
+Turkey,Asia & Oceania,2007,16.45,Units,1.302930905,12.63
+Turkey,Asia & Oceania,2008,16.82,Units,1.301521703,12.92
+Turkey,Asia & Oceania,2009,18.86,Units,1.549959776,12.17
+Turkey,Asia & Oceania,2010,19.48,Units,1.50284863,12.96
+Turkey,Asia & Oceania,2011,23.32,Units,1.674954552,13.92
+Turkey,Asia & Oceania,2012,29.58,Units,1.796000944,16.47
+Turkey,Asia & Oceania,2013,30.74,Units,1.903768242,16.15
+Turkey,Asia & Oceania,2014,31.08,Units,2.188542418,14.20
+Turkey,Asia & Oceania,2015,34.28,Units,2.720008528,12.60
+Turkey,Asia & Oceania,2016,35.71,Units,3.020134748,11.83
+Turkey,Asia & Oceania,2017,41.72,Units,3.648132635,11.44
+Turkey,(blank),2003,8.69,Units,1.500885209,5.79
+Turkey,(blank),2004,9.58,Units,1.42553725,6.72
+Turkey,(blank),2005,11.14,Units,1.343583108,8.29
+Turkey,(blank),2006,12.92,Units,1.428453413,9.04
+United Kingdom,Europe,1986,,Units,0.682197333,
+United Kingdom,Europe,1987,,Units,0.6119265,
+United Kingdom,Europe,1988,,Units,0.562170167,
+United Kingdom,Europe,1989,,Units,0.61117275,
+United Kingdom,Europe,1990,,Units,0.563177167,
+United Kingdom,Europe,1991,,Units,0.567015333,
+United Kingdom,Europe,1992,,Units,0.569774167,
+United Kingdom,Europe,1993,,Units,0.666756553,
+United Kingdom,Europe,1994,,Units,0.653426604,
+United Kingdom,Europe,1995,,Units,0.63366812,
+United Kingdom,Europe,1996,,Units,0.640958255,
+United Kingdom,Europe,1997,,Units,0.610836114,
+United Kingdom,Europe,1998,,Units,0.603823594,
+United Kingdom,Europe,1999,,Units,0.618056845,
+United Kingdom,Europe,2000,,Units,0.660930833,
+United Kingdom,Europe,2001,,Units,0.694655,
+United Kingdom,Europe,2002,,Units,0.667223333,
+United Kingdom,Europe,2003,,Units,0.6124725,
+United Kingdom,Europe,2004,,Units,0.54618,
+United Kingdom,Europe,2005,,Units,0.549998333,
+United Kingdom,Europe,2006,,Units,0.543486667,
+United Kingdom,Europe,2007,,Units,0.499771667,
+United Kingdom,Europe,2008,,Units,0.54396625,
+United Kingdom,Europe,2009,,Units,0.641919263,
+United Kingdom,Europe,2010,,Units,0.647179346,
+United Kingdom,Europe,2011,,Units,0.624140836,
+United Kingdom,Europe,2012,,Units,0.633046989,
+United Kingdom,Europe,2013,,Units,0.639660578,
+United Kingdom,Europe,2014,,Units,0.607729627,
+United Kingdom,Europe,2015,,Units,0.654545479,
+United Kingdom,Europe,2016,,Units,0.740634464,
+United Kingdom,Europe,2017,,Units,0.776976682,
+United Kingdom,Europe,2018,,Units,0.74953154,
+United States,North America,1964,1.88,Units,1,1.88
+United States,North America,1965,1.85,Units,1,1.85
+United States,North America,1966,1.83,Units,1,1.83
+United States,North America,1967,1.72,Units,1,1.72
+United States,North America,1968,1.70,Units,1,1.70
+United States,North America,1969,1.70,Units,1,1.70
+United States,North America,1970,2.02,Units,1,2.02
+United States,North America,1971,2.08,Units,1,2.08
+United States,North America,1972,2.06,Units,1,2.06
+United States,North America,1973,2.31,Units,1,2.31
+United States,North America,1974,2.73,Units,1,2.73
+United States,North America,1975,2.97,Units,1,2.97
+United States,North America,1976,4.16,Units,1,4.16
+United States,North America,1977,7.72,Units,1,7.72
+United States,North America,1978,6.90,Units,1,6.90
+United States,North America,1979,6.48,Units,1,6.48
+United States,North America,1980,6.90,Units,1,6.90
+United States,North America,1981,5.56,Units,1,5.56
+United States,North America,1982,5.71,Units,1,5.71
+United States,North America,1983,5.62,Units,1,5.62
+United States,North America,1984,5.87,Units,1,5.87
+United States,North America,1985,5.93,Units,1,5.93
+United States,North America,1986,7.66,Units,1,7.66
+United States,North America,1987,6.52,Units,1,6.52
+United States,North America,1988,6.32,Units,1,6.32
+United States,North America,1989,6.83,Units,1,6.83
+United States,North America,1990,6.59,Units,1,6.59
+United States,North America,1991,6.24,Units,1,6.24
+United States,North America,1992,5.73,Units,1,5.73
+United States,North America,1993,5.49,Units,1,5.49
+United States,North America,1994,7.56,Units,1,7.56
+United States,North America,1995,8.97,Units,1,8.97
+United States,North America,1996,7.62,Units,1,7.62
+United States,North America,1997,9.13,Units,1,9.13
+United States,North America,1998,8.37,Units,1,8.37
+United States,North America,1999,7.62,Units,1,7.62
+United States,North America,2000,7.67,Units,1,7.67
+United States,North America,2001,6.87,Units,1,6.87
+United States,North America,2002,6.50,Units,1,6.50
+United States,North America,2003,6.48,Units,1,6.48
+United States,North America,2004,6.33,Units,1,6.33
+United States,North America,2005,7.25,Units,1,7.25
+United States,North America,2006,7.12,Units,1,7.12
+United States,North America,2007,7.71,Units,1,7.71
+United States,North America,2009,8.15,Units,1,8.15
+United States,North America,2010,8.68,Units,1,8.68
+United States,North America,2011,11.54,Units,1,11.54
+United States,North America,2012,12.61,Units,1,12.61
+United States,North America,2013,12.12,Units,1,12.12
+United States,North America,2014,11.09,Units,1,11.09
+United States,North America,2015,10.49,Units,1,10.49
+United States,North America,2016,9.76,Units,1,9.76
+United States,North America,2017,9.90,Units,1,9.90
+United States,North America,2018,9.56,Units,1,9.56
