@@ -11,11 +11,11 @@ def viz1():
     return render_template("viz-1.html")
 
 @app.route("/viz-2")
-def viz1():
+def viz2():
     return render_template("viz-2.html")
 
 @app.route("/viz-3")
-def viz1():
+def viz3():
     return render_template("viz-3.html")
 
 
