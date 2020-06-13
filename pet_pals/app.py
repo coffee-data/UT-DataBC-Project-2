@@ -18,6 +18,10 @@ def viz2():
 def viz3():
     return render_template("viz-3.html")
 
+@app.route("/viz-4")
+def viz4():
+    return render_template("viz-4.html")
+
 
 if __name__ == "__main__":
     app.run(debug=True)
