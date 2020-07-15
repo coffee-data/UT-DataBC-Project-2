@@ -6,7 +6,9 @@
 
 [Challenges With Our Data](#data-challenges)
 
-[Walkthrough Video With Jesse](#Walkthrough)
+[Technology Used](#tech)
+
+[Walkthrough Video With Jesse](#video-walkthrough)
 
 ## Challenge Description
 Bold challenge descriptions with responses below.
