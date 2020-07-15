@@ -1,14 +1,13 @@
 # Full Stack Web Application
+
+Click to View Application >
+[![](https://github.com/coffee-data/UT-DataBC-Project-2/blob/master/Images/2020-07-14%2022.05.12.gif)](https://coffee-data-project2.herokuapp.com/)
+
 ## Table of Contents
 [Project Challenge Description](#challenge-description)
-
 [About Our Data](#data-sources)
-
 [Challenges With Our Data](#data-challenges)
-
-[Technology Used](#tech)
-
-[Walkthrough Video With Jesse](#video-walkthrough)
+[Walkthrough Video With Jesse](#Walkthrough)
 
 ## Challenge Description
 Bold challenge descriptions with responses below.
