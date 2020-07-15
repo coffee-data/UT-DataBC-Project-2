@@ -1,8 +1,11 @@
 # Full Stack Web Application
 ## Table of Contents
 [Project Challenge Description](#challenge-description)
+
 [About Our Data](#data-sources)
+
 [Challenges With Our Data](#data-challenges)
+
 [Walkthrough Video With Jesse](#Walkthrough)
 
 ## Challenge Description
