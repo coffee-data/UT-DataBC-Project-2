@@ -1,7 +1,7 @@
 # Full Stack Web Application
 ## Table of Contents
 1. [Project Challenge Description](#challenge-description)
-2.
+2. [About Our Data](#data-sources)
 3.
 4.
 
@@ -24,3 +24,9 @@
     Tableau makes our viz interactive.
 6. **Your final visualization should ideally include at least three views.**  
 	We each focused on creating visualizations after thorough dialogue about our data results.
+
+## Data Sources
+| Data Name | Description | Reference Link |
+| ------ | ------ | ------ |
+| ICO Time Series | Data provided by the ICO for prices paid to producers and retail prices of coffee | [Historical Data](http://www.ico.org/new_historical.asp)
+| Web Scraped CQI | Data scraped by James LeDoux located on public repository web scraped from CQI website | [Repo Link](https://github.com/jldbc/coffee-quality-database) |
