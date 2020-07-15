@@ -2,7 +2,7 @@
 ## Table of Contents
 1. [Project Challenge Description](#challenge-description)
 2. [About Our Data](#data-sources)
-3.
+3. [Data Challenges](#challenges)
 4.
 
 ## Challenge Description
@@ -30,3 +30,11 @@
 | ------ | ------ | ------ |
 | ICO Time Series | Data provided by the ICO for prices paid to producers and retail prices of coffee | [Historical Data](http://www.ico.org/new_historical.asp)
 | Web Scraped CQI | Data scraped by James LeDoux located on public repository web scraped from CQI website | [Repo Link](https://github.com/jldbc/coffee-quality-database) |
+
+## Challenges
+### ICO Time Series
+- Data was received in XLSX report-style format and in batches of time due to query restrictions. This required meticulous cleaning before loading into Python/Pandas Dataframes.
+- Each country's price was represented it its original currency (requiring the use of exchange rate conversions)
+- Units in weights sometimes varied cauing some meticulous cleaning and iterating of the data.
+### Web Scraped CQI
+- This data was very messy and difficult to clean.
